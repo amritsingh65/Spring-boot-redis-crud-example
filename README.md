@@ -16,6 +16,17 @@ Steps to use this repository.
 
 6. Check the user.java class in the project to send the parameters in your request.
 
+
+Here are the urls used:
+
+<strong> for saving a user - http://localhost:8081/user </strong> and pass the user parameters in the body
+<strong> for lists all users - http://localhost:8081/users </strong>
+<strong> for fetting a single user - http://localhost:8081/user/{userId} </strong> and pass the usedid in the path.
+<strong> for deleting a user - http://localhost:8081/user/delete/{userId} </strong> and pass the userId in the path
+
+
+
+
 Happy Learning and wait for more to come!!
 
 Cheers
