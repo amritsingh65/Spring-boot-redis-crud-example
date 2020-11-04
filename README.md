@@ -26,10 +26,10 @@ Here are the urls used:
   - http://localhost:8081/users 
 
 <strong> for fetting a single user </strong>
-  - http://localhost:8081/user/{userId} and pass the usedid in the path.
+  - http://localhost:8081/user/{userId} and pass the userId in the path variable.
 
 <strong> for deleting a user </strong>
-  - http://localhost:8081/user/delete/{userId} and pass the userId in the path
+  - http://localhost:8081/user/delete/{userId} and pass the userId in the path variable.
 
 
 
