@@ -1,6 +1,6 @@
 # Spring-boot-redis-crud-example
 
-The purpose of this repository for knowledge sharing to use spring boot with redis that has a crud operation implemented in this repository.
+The purpose of this repository for knowledge sharing to use spring boot with redis that has a crud operation implemented.
 
 Steps to use this repository.
 
