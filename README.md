@@ -10,7 +10,7 @@ Steps to use this repository.
 
 3. Once you install the redis in your dev environment. Start your redis service.
 
-4. open terminal and go to the project path and run -<strong> mvn clean spring-boot:run </strong>
+4. Open terminal and go to the project path and run -<strong> mvn clean spring-boot:run </strong>
 
 5. Use postman or any tool to send requests to your api.
 
