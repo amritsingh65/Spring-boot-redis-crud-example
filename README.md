@@ -19,10 +19,17 @@ Steps to use this repository.
 
 Here are the urls used:
 
-<strong> for saving a user - http://localhost:8081/user </strong> and pass the user parameters in the body
-<strong> for lists all users - http://localhost:8081/users </strong>
-<strong> for fetting a single user - http://localhost:8081/user/{userId} </strong> and pass the usedid in the path.
-<strong> for deleting a user - http://localhost:8081/user/delete/{userId} </strong> and pass the userId in the path
+<strong> for saving a user </strong>
+  - http://localhost:8081/user and pass the user parameters in the body
+
+<strong> for lists all users </strong>
+  - http://localhost:8081/users 
+
+<strong> for fetting a single user </strong>
+  - http://localhost:8081/user/{userId} and pass the usedid in the path.
+
+<strong> for deleting a user </strong>
+  - http://localhost:8081/user/delete/{userId} and pass the userId in the path
 
 
 
